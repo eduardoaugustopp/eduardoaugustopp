@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=eduardoaugustopp.eduardoaugustopp" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Olá,+me+chamo+Eduardo!+👋;Sou+estudante+de+Engenharia+de+Software!+🚀" alt="Typing SVG"/>
 </h1>
@@ -17,7 +15,7 @@
 
 # 📫Entre em contato comigo
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://eduardoaugustopp.github.io" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
+    <a href="https://eduardoaugustoppgithubio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
     <a href="https://drive.google.com/file/d/1AS-whFUCsQ-Sfbo3nPsqAs2iarN3BVaP/view?usp=sharing" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
