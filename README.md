@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Olá,+me+chamo+Eduardo!+👋;Sou+estudante+de+Engenharia+de+Software!+🚀" alt="Typing SVG"/>
 </h1>
 
-[![Projeto - Veículos](https://img.shields.io/website?label=Projeto+Página+Web&style=for-the-badge&url=https://projeto-veiculos-carros-motos.vercel.app/)](https://projeto-veiculos-carros-motos.vercel.app/)
-[![Projeto - PKPratas](https://img.shields.io/website?label=Projeto+Página+Web&style=for-the-badge&url=https://pk-pratas.vercel.app/)](https://pk-pratas.vercel.app/)
+[![Projeto Página Web - Veículos](https://img.shields.io/website?label=Projeto+Página+Web+Veículos&style=for-the-badge&url=https://projeto-veiculos-carros-motos.vercel.app/)](https://projeto-veiculos-carros-motos.vercel.app/)
+[![Projeto Página Web - PKPratas](https://img.shields.io/website?label=Projeto+Página+Web+PKPratas&style=for-the-badge&url=https://pk-pratas.vercel.app/)](https://pk-pratas.vercel.app/)
 
 <br/>
  
