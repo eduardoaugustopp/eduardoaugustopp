@@ -7,11 +7,11 @@
 
 <br/>
  
-💻 Estou constantemente aprimorando minhas habilidades em tecnologia, incluindo áreas como Quality Assurance (QA), Desenvolvimento Web e Mobile, Linguagens de Programação, Inteligência Artificial (IA), Data Science, Internet das Coisas (IoT), Machine Learning, Cloud Computing, Bancos de Dados e Linux.
+💻 Como profissional, estou constantemente aprimorando minhas habilidades em tecnologia, incluindo áreas como Quality Assurance (QA), Desenvolvimento Web, Linguagens de Programação, Inteligência Artificial (IA), Data Science, Internet das Coisas (IoT), Machine Learning, Cloud Computing, Bancos de Dados e Linux.
 
 🔍 Aqui você encontrará meus exercícios e projetos.
 
-🌱 Busco uma oportunidade para aplicar meu conhecimento em um ambiente colaborativo e aprender com um projeto real.
+🌱 Busco sempre aprofundar minhas competências técnicas e aprimorar minha capacidade de construir soluções que agreguem valor ao negócio.
 
 # 📫Entre em contato comigo
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -60,8 +60,6 @@
           <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=cs" alt="CS" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50" style="margin: 5px;" />
         </div>
       </div>
     </td>
@@ -73,11 +71,7 @@
           <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="margin: 5px;" />
         </div>
       </div>
     </td>
@@ -96,13 +90,11 @@
           <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=autocad" alt="AutoCAD" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=idea" alt="IDEA" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm" width="50" height="50" style="margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px;" />
         </div>
       </div>
     </td>
@@ -114,3 +106,15 @@
 <br/>
 
 ![Contribuições](https://raw.githubusercontent.com/eduardoaugustopp/eduardoaugustopp/output/github-contribution-grid-snake.svg)
+
+<hr/>
+<div align=center class="centralizado">
+    <div class="imagem">
+        <img class="imagem-centralizada" alt="ET" src="https://64.media.tumblr.com/a8fead8bb86f19d9325e8efc9cc52c93/efb2372aa09e9f2a-b7/s400x600/285f28029a17f9282bfee47e74941fbdc008f319.gifv" width="200" height="200">
+    </div>
+    <p>Total de visitas no meu perfil do GitHub:</p>
+    <div class="imagem">
+        <img class="imagem-centralizada" src="https://profile-counter.glitch.me/eduardoaugustopp/count.svg" alt="GitHub visitas">
+    </div>
+</div>
+
