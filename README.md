@@ -95,6 +95,7 @@
           <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px;" />
+          <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="50" height="50" style="margin: 5px;" />
         </div>
       </div>
     </td>
