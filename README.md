@@ -15,7 +15,7 @@
 
 # 📫Entre em contato comigo
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://eduardoaugustoppgithubio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
+    <a href="https://eduardoaugustopp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
     <a href="https://drive.google.com/file/d/1puxDSqJliCZAKuwoLKB_s9kCvYfB4shf/view?usp=sharing" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
