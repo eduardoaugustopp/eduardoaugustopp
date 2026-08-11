@@ -4,7 +4,7 @@
 
 💻 Como profissional estou sempre aprimorando minhas habilidades em tecnologia.
 
-🌱 Busco aprofundar minha capacidade de construir soluções que agreguem valor ao negócio. Atualmente meu foco é em Java.
+🌱 Atualmente meu foco é em Java.
 
 🔍 Aqui você encontrará meus estudos.
 
@@ -14,7 +14,7 @@
     <a href="https://eduardoaugustopp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
-    <a href="https://drive.google.com/file/d/1fu-wFev9fxRqUDkh58NCKNbMoXPimNkW/view?usp=sharing" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
+    <a href="https://drive.google.com/file/d/19AjHXJ-1TXAhgVBdF151-PNb2bEPuUt4/view?usp=sharing" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/-Curriculum%20Vitae-orange" alt="Curriculum Vitae" style="height: 28px; border: none;" />
     </a>
     <a href="https://www.linkedin.com/in/eduardoaugustopp" target="_blank" rel="noopener noreferrer" aria-label="Visite meu LinkedIn" style="text-decoration: none; border: none;">
