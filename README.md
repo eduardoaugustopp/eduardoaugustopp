@@ -30,25 +30,33 @@
 
 <hr/>
 
-<h2 align="center">📈 Minhas Estatísticas 📈</h2>
+<h2 align="center">📈 Estatísticas 📈</h2>
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=3600)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=3600)
 
 </div>
-<hr/>
-<h2 align="center">🔧 Habilidades 🔧</h2>
 
+<h2 align="center">💻 Sites 💻</h2>
+
+<div align="center">
+
+[![Site 1](https://img.shields.io/badge/Site%201-Online-brightgreen?style=for-the-badge)](https://html-css-javascript-frontend.vercel.app/)
+
+[![Site 2](https://img.shields.io/badge/Site%202-Online-brightgreen?style=for-the-badge)](https://nextjs-typescript-tailwind-frontend.vercel.app/)
+
+[![Site 3](https://img.shields.io/badge/Site%203-Online-brightgreen?style=for-the-badge)](https://ermpesca.vercel.app/)
+
+</div>
+
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="33%">
       <h3 style="text-align: center;">Frontend</h3>  
       <div align="center">  
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-          <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" style="margin: 5px;" />
-          <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" style="margin: 5px;" />
           <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin: 5px;" />
         </div>
       </div>
@@ -82,5 +90,5 @@
     </td>
   </tr>
 </table>
-
+</div>
 <hr/>
