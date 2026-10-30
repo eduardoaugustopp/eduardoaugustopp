@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=3600)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=3600)
 
 </div>
 
