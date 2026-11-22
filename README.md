@@ -14,7 +14,7 @@
     <a href="https://eduardoaugustopp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
-    <a href="https://drive.google.com/file/d/19AjHXJ-1TXAhgVBdF151-PNb2bEPuUt4/view?usp=sharing" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
+    <a href="" target="_blank" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/-Curriculum%20Vitae-orange" alt="Curriculum Vitae" style="height: 28px; border: none;" />
     </a>
     <a href="https://www.linkedin.com/in/eduardoaugustopp" target="_blank" rel="noopener noreferrer" aria-label="Visite meu LinkedIn" style="text-decoration: none; border: none;">
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=3600)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=eduardoaugustopp&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&cache_seconds=1800)
 
 </div>
 
