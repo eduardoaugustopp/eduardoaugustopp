@@ -50,6 +50,8 @@
 
 </div>
 
+<h2 align="center">🛠️ Habilidades 🛠️</h2>
+
 <div align="center">
 <table>
   <tr>
