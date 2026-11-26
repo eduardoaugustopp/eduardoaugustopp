@@ -14,7 +14,7 @@
     <a href="https://eduardoaugustopp-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" aria-label="Visite meu portfólio" style="text-decoration: none; border: none;">
         <img src="https://img.shields.io/badge/Portfolio-red.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
-    <a href="https://drive.google.com/file/d/16I-ChXWuANao2xZozTgvcnHQ5EmwBiLr/view" target="_blank" rel="noopener noreferrer" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
+    <a href="https://drive.google.com/file/d/1hRcemOTrjAT1vYMGUxCYFqk1BezuR42P/view" target="_blank" rel="noopener noreferrer" aria-label="Acesse meu currículo" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-orange?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Currículo" style="height: 28px; margin-bottom: 5px; border: none;" />
     </a>
     <a href="https://www.linkedin.com/in/eduardoaugustopp" target="_blank" rel="noopener noreferrer" aria-label="Visite meu LinkedIn" style="text-decoration: none; border: none;">
